@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body, {
+  font-size: 100%;
+  background: #f8f856FF;
+}
+.error {
+
+  background: #f5f5f5;
+  border-radius: 5px;
+  text-align: left;
+  width: 92%;
+  margin: 0px auto;
+  padding: 10px;
+  border: 1px solid #a9686a;
+  color: #0c0627;
+  
+}
+.success {
+  color: #7766443d;
+  border: 1px solid #0db30f;
+  background: #d8e4f0;
+  margin-bottom: 20px;
+}
+.logout{
+  width: 20%;
+  margin: 5% 20% 5% 78%;
+  padding: 10px;
+  border-radius: 10px 10px 10px 10px;
+}
+.input{
+  margin: 20px 10px 20px 10px;
+}
+
+.header {
+  
+  color: rgba(141, 20, 135, 0.082);
+  background: #800000;
+  text-align: center;
+  border-bottom: none;
+  width: 20%;
+  margin: 15% 70% 10% 10%;
+  border-radius: 20px 20px 10px 10px;
+  padding: 20px;
+}
